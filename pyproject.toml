@@ -2,7 +2,7 @@
 name = "iptracking"
 version = "1.0.2"
 description = "IP tracking code"
-authors = [{name = "A. Random Developer", email = "author@example.com" }]
+authors = [{name = "Aarni"}]
 readme = "README.md"
 requires-python = ">=3.7"
 
